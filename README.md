@@ -2,47 +2,47 @@
 
 [![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+**研究团队模板** 可以让您的研究团队轻松创建一个美丽的网站，其中包含令人惊叹的主页、新闻、学术出版物、事件、团队简介和联系表单。
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+️**受到 25 万多名研究人员、教育工作者和学生的信赖。** 通过集成的 **无代码、基于小部件的 Wowchemy 页面构建器** 进行高度定制，使每个网站都真正个性化 ⭐⭐⭐⭐⭐
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+可以使用纯文本 Markdown、LaTeX 数学、图表、RMarkdown 或 Jupyter 轻松撰写技术内容，并从 BibTeX 导入出版物。
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+查看在不到 60 秒内获得的最新演示版本，或[查看展示](https://hugoblox.com/creators/)。
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+集成的 [**Wowchemy**](https://hugoblox.com/) 网站构建器和 CMS 使得免费创建漂亮的网站变得轻而易举。在 CMS 中（或您喜欢的编辑器中）编辑您的网站，使用 [Hugo](https://github.com/gohugoio/hugo) 生成它，然后使用 GitHub 或 Netlify 部署。使用小部件、浅色/深色主题和语言包自定义您网站的任何内容。
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- 👉 [**开始使用**](https://hugoblox.com/hugo-themes/)
+- 📚 [查看 **文档**](https://docs.hugoblox.com/)
+- 💬 [与 **Wowchemy 研究社区**聊天](https://discord.gg/z8wNYzb) 或 [**Hugo 社区**](https://discourse.gohugo.io/)
+- ⬇️ 利用 [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter) **自动从 BibTeX 导入引文**
+- 🐦 与社区共享您的新网站: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#用 Wowchemy 制作](https://twitter.com/搜索?q=%23用 Wowchemy 制作&src=typed_query)
+- 🗳 [填写调查问卷，帮助我们改进 #开源](https://forms.gle/NioD9VhUg7PNmdCAA)
+- 🚀 [贡献改进](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) 或 [建议改进](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **更新？** 查看[更新指南](https://docs.hugoblox.com/hugo-tutorials/update/) 和 [发布说明](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
-## We ask you, humbly, to support this open source movement
+## 我们恳请您支持这一开源运动
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+今天我们恳请您捍卫 Wowchemy 网站构建器和主题的开源独立🐧
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+我们是一个依赖于您支持才能在线和繁荣发展的开源运动，但我们 99.9% 的制作者并不给予支持；他们只是置之不理。
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+### [❤️ 点击此处成为 GitHub 赞助商，解锁 *专属学术模板和小部件* 等令人惊喜的特权](https://github.com/sponsors/gcushen)
 
-## Demo credits
+## 演示来源
 
-Please replace the demo images with your own.
+请使用您自己的演示图片替换这些。
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
+- [女科学家](https://unsplash.com/photos/uVnRa6mOLOM)
+- [两个编码人员](https://unsplash.com/photos/kwzWjTnDPLk)
+- [咖啡馆](https://unsplash.com/photos/RnDGGnMEOao)
+- 博客文章
   - https://unsplash.com/photos/AndE50aaHn4
   - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
+- 头像
   - https://unsplash.com/photos/5yENNRbbat4
   - https://unsplash.com/photos/WNoLnJo7tS8
